@@ -24,5 +24,7 @@ To create a compelling data story from Superstore sales data using charts and da
 
 ## 📂 Files Included
 - Dataset
+- Readme.md as summary
+- book1.twb
 - Dashboard as pdf
 
